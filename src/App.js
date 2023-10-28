@@ -14,7 +14,8 @@ function App() {
                                 <img className="h-10 w-auto sm:h-16"
                                      src="logo_purple.svg"
                                      alt=""/>
-                                <div className="pl-3 sm:pl-6 py-1 text-3xl sm:text-4xl align-middle font-extrabold my-auto text-transparent bg-clip-text bg-gradient-to-r from-purple-700 to-indigo-900 dark:from-purple-400 dark:to-indigo-300">
+                                <div
+                                    className="pl-3 sm:pl-6 py-1 text-3xl sm:text-4xl align-middle font-extrabold my-auto text-transparent bg-clip-text bg-gradient-to-r from-purple-700 to-indigo-900 dark:from-purple-400 dark:to-indigo-300">
                                     David Chorvinsky
                                 </div>
                             </div>
@@ -97,23 +98,22 @@ function App() {
                                                     <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
                                                         A drive to build;
                                                         <br/>
-                                                        zigzags to get there
+                                                        and unique path to product
                                                     </h2>
-                                                    <p className="mt-4 text-lg text-gray-600 dark:text-gray-400">
-                                                        I haven't had a straight path to where I am today but what has
-                                                        been true the entire time is a singular passion to create.
+                                                    <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
+                                                        My path, while having felt circuitous at the time, has given me
+                                                        the menagerie of experience that guides.
                                                         Inspired by my late entrepreneurial father, a family business,
-                                                        and
-                                                        the problem solving fundamentals learned studying
+                                                        and the problem solving fundamentals learned studying
                                                         Mechanical Engineering, I have chased after whatever the
-                                                        opportunity might be to
-                                                        create including: an APIs for address data, a design system and
+                                                        opportunity might be to create including: an APIs for address
+                                                        data, a design system and
                                                         reusable application for local government data visualization web
                                                         apps, a Discord bot to analyze video
-                                                        game economies, a specialized event registration systems, and
-                                                        more.
-                                                        If you have a project, a problem to solve, or a crazy idea that
-                                                        just might work then I can't wait to hear more.
+                                                        game economies, a specialized event registration systems, and a
+                                                        few other projects still in the works, all while
+                                                        spending my days working to build great products with the help
+                                                        of talented developers.
                                                     </p>
 
 
@@ -228,7 +228,8 @@ function App() {
                                                                     aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                                <img className="p-1 rounded-full" src="umd.png" alt="University of Maryland logo"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                                <img
+                className="p-1.5 rounded-full" src="umd.png" alt="University of Maryland logo"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -255,7 +256,8 @@ function App() {
                                                                     aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img className="p-1" alt="flag of Washington D.C." src="dcflag.jpg"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img
+                className="p-1.5" alt="flag of Washington D.C." src="dcflag.jpg"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -288,7 +290,8 @@ function App() {
                                                                     aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img className="p-1" alt="Flag of Washington D.C." src="dcflag.jpg"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img
+                className="p-1.5" alt="Flag of Washington D.C." src="dcflag.jpg"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -316,7 +319,8 @@ function App() {
                                                                     aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img className="p-1" alt="SpkEz logo" src="spkez.png"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img
+                className="p-1.5" alt="SpkEz logo" src="spkez.png"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -346,7 +350,8 @@ function App() {
                                                                     aria-hidden="true"/>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img className="p-1" alt="Buyer's Guide logo of a bag with a stack of coins" src="auction_bot2.png"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img
+                className="p-1.5" alt="Buyer's Guide logo of a bag with a stack of coins" src="auction_bot2.png"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -381,7 +386,8 @@ function App() {
                                                                     aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img className="p-1" alt="Flag of Washington D.C." src="dcflag.jpg"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img
+                className="p-1.5" alt="Flag of Washington D.C." src="dcflag.jpg"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -410,7 +416,8 @@ function App() {
                                                                      aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
-            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img className="p-1" alt="Phenom company logo" src="phenom_logo.png"/>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">                <img
+                className="p-1.5" alt="Phenom company logo" src="phenom_logo.png"/>
             </span>
                                                                     </div>
                                                                     <div
@@ -436,24 +443,56 @@ function App() {
                                                         </li>
                                                         <li>
                                                             <div className="relative pb-8">
+                                                                <span
+                                                                    className="absolute top-4 left-7 -ml-px h-full w-0.5 bg-gray-200"
+                                                                    aria-hidden="true"></span>
                                                                 <div className="relative flex space-x-3">
                                                                     <div>
             <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">
-                <img className="p-1" alt="Capital One Finance Logo" src="c1logo.png"/>
+                <img className="p-1.5" alt="Capital One Finance Logo" src="c1logo.png"/>
             </span>
                                                                     </div>
                                                                     <div
                                                                         className="min-w-0 flex-wrap-reverse lg:flex-1 pt-1.5 flex justify-between md:space-x-4 w-72 sm:w-8/12 md:w-10/12 lg:w-none">
                                                                         <div className="w-72 sm:w-2/3 lg:w-none">
                                                                             <p className="text-sm text-gray-600 dark:text-gray-300">
-                                                                                Stepped into credit policy with <span
-                                                                                className="font-medium text-gray-900 dark:text-gray-100">Capital One's </span>
-                                                                                Card organization leading authoring of rules and logic.
+                                                                                Led the development of a rule and policy
+                                                                                authoring platform with<span
+                                                                                className="font-medium text-gray-900 dark:text-gray-100"> Capital One's </span>
+                                                                                RulesLab team focused on Credit Policy
+                                                                                and Card offerings
                                                                             </p>
                                                                         </div>
                                                                         <div
                                                                             className="text-right text-sm whitespace-nowrap text-gray-600 dark:text-gray-300">
                                                                             <p>Spring 2022</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div className="relative pb-8">
+                                                                <div className="relative flex space-x-3">
+                                                                    <div>
+            <span className="h-14 w-14 rounded-full bg-white flex items-center justify-center">
+                <img className="p-1.5" alt="Capital One Finance Logo" src="c1logo.png"/>
+            </span>
+                                                                    </div>
+                                                                    <div
+                                                                        className="min-w-0 flex-wrap-reverse lg:flex-1 pt-1.5 flex justify-between md:space-x-4 w-72 sm:w-8/12 md:w-10/12 lg:w-none">
+                                                                        <div className="w-72 sm:w-2/3 lg:w-none">
+                                                                            <p className="text-sm text-gray-600 dark:text-gray-300">
+                                                                                Moved to the Bank side of
+                                                                                <span
+                                                                                    className="font-medium text-gray-900 dark:text-gray-100"> Capital One </span>
+                                                                                to lead the product development of their
+                                                                                fraud policy platform
+                                                                            </p>
+                                                                        </div>
+                                                                        <div
+                                                                            className="text-right text-sm whitespace-nowrap text-gray-600 dark:text-gray-300">
+                                                                            <p>Summer 2023</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -521,13 +560,16 @@ function App() {
                                     </div>
                                     <div className="mt-6">
                                         <h3 className="text-lg font-medium text-white"><a rel="noopener noreferrer"
-                                                                                      className="underline"
-                                                                                      target="_blank"
-                                                                                      href="https://wowbuyersguide.com/">Buyer's
+                                                                                          className="underline"
+                                                                                          target="_blank"
+                                                                                          href="https://wowbuyersguide.com/">Buyer's
                                             Guide: Auction Bot</a></h3>
                                         <p className="mt-2 text-base text-purple-200">
                                             After a decade plus of fascination and tracking of the economy within World
-                                            of Warcraft, <a href="https://www.linkedin.com/in/reed-trevelyan-42247b168/" target="_blank" rel="noopener noreferrer" className="underline"> a friend</a> and I teamed up to bring my complex analysis to the
+                                            of Warcraft, <a href="https://www.linkedin.com/in/reed-trevelyan-42247b168/"
+                                                            target="_blank" rel="noopener noreferrer"
+                                                            className="underline"> a friend</a> and I teamed up to bring
+                                            my complex analysis to the
                                             masses in the form of a responsive bot that empowers every player to get the
                                             best price on anything available on the in-game marketplace. The bot has
                                             seen over 100 installs and 1000 users engage with it as well as assisting me
@@ -616,13 +658,14 @@ function App() {
                                     </div>
                                     <div className="mt-6">
                                         <h3 className="text-lg font-medium text-white"><a rel="noopener noreferrer"
-                                                                                      className="underline"
-                                                                                      target="_blank"
-                                                                                      href="https://sexoffender.dc.gov/">DC
+                                                                                          className="underline"
+                                                                                          target="_blank"
+                                                                                          href="https://sexoffender.dc.gov/">DC
                                             Sex Offender
                                             Search</a></h3>
                                         <p className="mt-2 text-base text-purple-200">
-                                            Search application for Offender Registry data as part of the Metropolitan Police Department's Public Safety unit. A rebuild of an over a decade old
+                                            Search application for Offender Registry data as part of the Metropolitan
+                                            Police Department's Public Safety unit. A rebuild of an over a decade old
                                             web application. Fully developed, tested, and released in less than half a
                                             year reducing time to release by greater than 50% from historic standards.
                                         </p>
@@ -672,9 +715,11 @@ function App() {
                                 <span
                                     className="bg-gradient-to-r from-purple-300 to-indigo-300 bg-clip-text text-transparent">Other Stuff</span>
                                 </h2>
-                                <p className="mt-3 text-3xl font-extrabold text-white">A small slice of hobbies and nifty
+                                <p className="mt-3 text-3xl font-extrabold text-white">A small slice of hobbies and
+                                    nifty
                                     tidbits</p>
-                                <p className="mt-5 text-lg text-gray-300">Either as an extension of the drive to create or
+                                <p className="mt-5 text-lg text-gray-300">Either as an extension of the drive to create
+                                    or
                                     just a bit of a side hobby I find more than a few ways to stay busy</p>
 
                                 <div className="mt-12 grid grid-cols-1 gap-y-12 gap-x-6 sm:grid-cols-2">
@@ -736,10 +781,7 @@ function App() {
                                             <span
                                                 className="block text-2xl font-bold text-white">High Ranked Warlock</span>
                                         </div>
-                                        <span className="mt-1 block text-base text-gray-300">Peaked at rank <a
-                                            rel="noopener noreferrer"
-                                            href="https://raider.io/characters/us/arthas/Brokenkey"
-                                            className="font-medium text-white underline"> 300 for Mythic+ Warlocks</a> in World of Warcraft staying consistently within the top .5% of all Warlock during Shadowlands season 1 and 2.</span>
+                                        <span className="mt-1 block text-base text-gray-300">Peaked at rank 300 for Mythic+ Warlocks in World of Warcraft staying consistently within the top .5% of all Warlock during Shadowlands season 1 and 2.</span>
 
                                     </p>
                                 </div>
