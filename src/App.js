@@ -736,7 +736,7 @@ function App() {
                                         <span className="mt-1 block text-base text-gray-300">I've been playing, and almost exclusively running, Dungeons and Dragons campaigns since middle school. I focus on story telling and expanding my home built game world through player interaction with it. Especially deep love of <a
                                             rel="noopener noreferrer"
                                             className="font-medium text-white underline"
-                                            href="https://cdn.discordapp.com/attachments/750163510884827157/773750814011162644/IMG_4282.jpg">map making</a> to bring the world to life.</span>
+                                            href="./aldermoure.jpg">map making</a> to bring the world to life.</span>
                                     </p>
 
                                     <p>
