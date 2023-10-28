@@ -803,7 +803,7 @@ function App() {
                                         <span className="mt-1 block text-base text-gray-300">I loved photography in high school on an adorable point and shoot but after years without a real camera I've fallen back in love with shooting. Feel free to check out <a
                                             rel="noopener noreferrer"
                                             className="font-medium text-white underline"
-                                            href="studio.chorvinsky.com">my portfolio page</a>.</span>
+                                            href="http://studio.chorvinsky.com">my portfolio page</a>.</span>
 
                                     </p>
                                 </div>
