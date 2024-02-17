@@ -483,11 +483,10 @@ function App() {
                                                                         className="min-w-0 flex-wrap-reverse lg:flex-1 pt-1.5 flex justify-between md:space-x-4 w-72 sm:w-8/12 md:w-10/12 lg:w-none">
                                                                         <div className="w-72 sm:w-2/3 lg:w-none">
                                                                             <p className="text-sm text-gray-600 dark:text-gray-300">
-                                                                                Moved to the Bank side of
+                                                                                Moved to the <span className="font-medium text-gray-900 dark:text-gray-100"> Retail Bank</span> team at
                                                                                 <span
                                                                                     className="font-medium text-gray-900 dark:text-gray-100"> Capital One </span>
-                                                                                to lead the product development of their
-                                                                                fraud policy platform
+                                                                                to lead the development of the Bank Fraud Policy Decisioning Platform
                                                                             </p>
                                                                         </div>
                                                                         <div
