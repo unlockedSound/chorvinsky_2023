@@ -14,8 +14,8 @@ const SpkEz = () => {
             </span>
                     </div>
                     <div
-                        className="min-w-0 flex-wrap-reverse lg:flex-1 pt-1.5 flex justify-between md:space-x-4 w-72 sm:w-8/12 md:w-10/12 lg:w-none">
-                        <div className="w-72 sm:w-2/3 lg:w-none">
+                        className="min-w-0 flex-wrap-reverse lg:flex-1 pt-1.5 flex justify-between md:space-x-4 w-72 sm:w-8/12 md:w-10/12 lg:w-11/12">
+                        <div className="w-72 sm:w-2/3 lg:w-11/12">
                             <p className="text-sm text-gray-600 dark:text-gray-300">Opened <span
                                 className="font-medium text-gray-900 dark:text-gray-100"> SpkEz </span><span
                                 className="italic text-gray-600 dark:text-gray-300">(Speakeasy Tango LLC) </span>

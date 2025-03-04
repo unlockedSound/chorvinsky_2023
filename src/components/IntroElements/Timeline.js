@@ -17,13 +17,14 @@ const Timeline = () => {
 
                 <div className="flow-root">
                     <ul className="-mb-8">
-                        <C1BankWatchtower/>
-                        <C1CardRulesLab/>
-                        <PhenomPeople/>
-                        <OCTOProgramManager/>
-                        <OCTOProductManager/>
-                        <OCTOFrontEndDeveloper/>
                         <College/>
+                        <OCTOFrontEndDeveloper/>
+                        <OCTOProductManager/>
+                        <OCTOProgramManager/>
+                        <PhenomPeople/>
+                        <C1CardRulesLab/>
+                        <C1BankWatchtower/>
+
                     </ul>
                 </div>
             </div>
